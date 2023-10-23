@@ -68,3 +68,56 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+use formic library for creating form inside reacts
+
+
+Netflix GPT Project
+
+1.Authentication
+2.Form Handling
+3.Chat GPT API FOR SEARCH FOR API'S
+
+
+How to Install Tailwind css
+1.npx create-react-app my-project
+2.cd my-project
+3.npm install -D tailwindcss
+4.npx tailwindcss init
+5.Paste inside Tailwind Config
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    "./src/**/*.{js,jsx,ts,tsx}",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+6.Paste inside index.css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+7.npm run start
+
+
+Features
+ Login/Sign In
+ redirect to Browse Page
+ Browse After Authentication
+ Header 
+Main Movie
+Trailer in Backgrouund
+Title Description
+Movie Suggestion
+Movie List
+
+
+Netflix GPT
+-Movie Suggestion
+Search Bar
+
+rafce-react arrow functions component export
