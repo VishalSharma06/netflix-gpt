@@ -121,3 +121,8 @@ Netflix GPT
 Search Bar
 
 rafce-react arrow functions component export
+- Form Validations
+- Use Ref Hooks
+- Firebase Setup
+- Deploying the App to Firebase
+- Reading Documentation is a Super Power of a Developer
